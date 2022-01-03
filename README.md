@@ -1,75 +1,85 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Creative Art Summit 2022
 
-> One paragraph statement about the project.
+> The global event of creative art.
 
-![screenshot](./app_screenshot.png)
+Microverse Capstone Project - HTML/CSS & JavaScript Conference page
 
-Additional description about the project and its features.
+
+## Video
+
+
+## Live Server
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML;
+- CSS;
+- JavaScript;
 
-## Live Demo
+## Prerequisites
 
-[Live Demo Link](https://livedemo.com)
+### Browser
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Any modern browser works! :smile:
 
 
-To get a local copy up and running follow these simple example steps.
+### Knowledge
 
-### Prerequisites
+Basic knowledge of the terminal and git
 
-### Setup
 
-### Install
+### Getting Started
 
-### Usage
+To get a local copy follow these steps:
 
-### Run tests
+1. Clone the repo by typing on your terminal
 
-### Deployment
+```
+git clone https://github.com/VTY1999/Conference-page.git
+```
 
+2. Access the repo with
+
+```
+cd Conference-page
+```
+
+3. Code freely
+
+```
+code .
+```
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Verissimo Francis**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/VTY1999)
+- Twitter: [@twitterhandle](https://twitter.com/verissimoty?s=09)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/francis-verissimo-b5b4521b1/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/VTY1999/Conference-page/issues)
+
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank you Microverse for the opportunity;
+- [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/) that made me copy and change the template.
+
 
 ## 📝 License
 
