@@ -45,10 +45,10 @@
     left: 5px;
     right: 5px;
     top: calc(50% - 24px / 2);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
     font-style: normal;
     font-weight: bold;
-    font-size: 32px;
+    font-size: 30px;
     line-height: 40px;
     display: flex;
     flex-direction: column;
@@ -129,7 +129,7 @@
 
   .hello {
     color: #99547f;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 20px;
     padding-left: 50px;
     padding-top: 55px;
@@ -146,7 +146,7 @@
 
   #discription {
     background-color: #f5f5f5;
-    font: 1em sans-serif;
+    font-family: 'Lato';
     font-size: 13px;
     border: 7px solid #fff;
     margin-left: 8px;
@@ -157,7 +157,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     color: #646464;
     margin-top: 60px;
   }
@@ -166,7 +166,7 @@
     text-align: center;
     margin-top: -4px;
     color: #807e7e;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #main-program {
@@ -182,7 +182,7 @@
   .main-head {
     color: #fff;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lato';
     padding-top: 30px;
   }
 
@@ -215,7 +215,7 @@
     font-size: 20px;
     margin-left: 100px;
     margin-top: -40px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .support {
@@ -223,7 +223,7 @@
     margin-left: 200px;
     margin-top: -50px;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #main-info1 {
@@ -245,7 +245,7 @@
     margin-left: 100px;
     margin-top: -50px;
     width: 40px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .support1 {
@@ -253,7 +253,7 @@
     margin-left: 210px;
     margin-top: -70px;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #main-info2 {
@@ -274,7 +274,7 @@
     font-size: 20px;
     margin-left: 100px;
     margin-top: -40px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
   }
 
   .support2 {
@@ -282,7 +282,7 @@
     margin-left: 200px;
     margin-top: -50px;
     font-size: 13px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
   }
 
   #main-info3 {
@@ -303,7 +303,7 @@
     font-size: 20px;
     margin-left: 80px;
     margin-top: -40px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
   }
 
   .support3 {
@@ -311,7 +311,7 @@
     margin-left: 220px;
     margin-top: -50px;
     font-size: 13px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
   }
 
   #main-info4 {
@@ -332,7 +332,7 @@
     font-size: 20px;
     margin-left: 90px;
     margin-top: -40px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
   }
 
   .support4 {
@@ -340,20 +340,21 @@
     margin-left: 210px;
     margin-top: -60px;
     font-size: 13px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
   }
 
   .button {
     color: #fff;
     background-color: #2d0752;
     margin-top: 50px;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Lato';
     font-size: 18px;
     border: transparent;
     height: 70px;
     width: 60%;
     margin-left: 80px;
     justify-content: center;
+    font-weight: bold;
   }
 
   .speakers-wrap {
@@ -363,7 +364,7 @@
   }
 
   .speak-head {
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
     padding-top: 30px;
     font-size: 21px;
@@ -379,20 +380,20 @@
     margin-top: -150px;
     margin-left: 180px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .speaker2 {
@@ -406,20 +407,20 @@
     margin-top: -150px;
     margin-left: 180px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro1 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info1 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .speaker3 {
@@ -433,20 +434,20 @@
     margin-top: -150px;
     margin-left: 170px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro2 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info2 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .speaker4 {
@@ -460,20 +461,20 @@
     margin-top: -150px;
     margin-left: 170px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro3 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info3 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .speaker5 {
@@ -487,20 +488,20 @@
     margin-top: -150px;
     margin-left: 180px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro4 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info4 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .speaker6 {
@@ -513,20 +514,20 @@
     margin-top: -150px;
     margin-left: 170px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro5 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info5 {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #partners {
@@ -540,7 +541,7 @@
   .p-head {
     color: #fff;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 25px;
     line-height: 4px;
   }
@@ -580,7 +581,7 @@
   }
 
   .right {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 13px;
     margin-top: -50px;
     margin-left: 160px;
@@ -608,7 +609,7 @@
 
   .about-hello {
     color: #99547f;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 20px;
     padding-top: 55px;
     text-align: center;
@@ -625,7 +626,7 @@
 
   #about-discription {
     background-color: #fff;
-    font: 1em sans-serif;
+    font-family: 'Lato';
     font-size: 12px;
     border: 1px solid #33323233;
     text-align: center;
@@ -638,10 +639,9 @@
 
   #contact {
     color: #4e4e4e;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 13px;
     text-align: center;
-    font-weight: bold;
     margin: 20px;
   }
 
@@ -651,6 +651,8 @@
 
   #email {
     color: #000;
+    font-family: 'Lato';
+    font-weight: bold;
   }
 
   #about-logo {
@@ -663,12 +665,13 @@
 
   .logo-head {
     margin-top: 70px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 23px;
+    font-weight: bold;
   }
 
   .logo-text {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 15px;
     color: #646464;
     margin: 30px;
@@ -687,12 +690,12 @@
 
   .past {
     margin-top: 70px;
-    font-family: sans-serif;
-    font-weight: lighter;
+    font-family: 'Lato';
+    font-weight: bold;
   }
 
   .past-discrib {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 15px;
     color: #646464;
     margin: 30px;
@@ -728,15 +731,15 @@
   }
 
   .date1 {
-    font-size: 35px;
-    font-family: sans-serif;
+    font-size: 40px;
+    font-family: 'Lato';
     font-weight: bold;
   }
 
   .description {
     font-size: 20px;
     font-weight: bold;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 }
 
@@ -781,7 +784,7 @@
     display: inline;
     text-align: right;
     margin-left: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 13px;
   }
 
@@ -792,12 +795,13 @@
   }
 
   li a {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 15px;
     color: #000;
     text-decoration: none;
     display: inline;
     margin-left: 20px;
+    font-weight: bold;
   }
 
   li a:hover {
@@ -812,10 +816,11 @@
     color: #680249;
     border: 4px solid #680249;
     font-size: 17px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-decoration: none;
     text-align: center;
     padding: 10px 20px;
+    font-weight: bold;
   }
 
   .mobile-menu {
@@ -824,7 +829,7 @@
 
   .hello {
     color: #99547f;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 40px;
     padding-left: 120px;
     padding-top: 125px;
@@ -841,7 +846,7 @@
 
   #discription {
     background-color: #f5f5f5;
-    font: 1em sans-serif;
+    font-family: 'Lato';
     font-size: 13px;
     border: 7px solid #fff;
     margin-left: 120px;
@@ -851,7 +856,7 @@
   .date {
     font-weight: bold;
     font-size: 39px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     color: #646464;
     margin-top: 60px;
     margin-left: 120px;
@@ -860,7 +865,7 @@
   .locate {
     margin-top: -20px;
     color: #807e7e;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 20px;
     margin-left: 120px;
   }
@@ -878,7 +883,7 @@
   .main-head {
     color: #fff;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lato';
     padding-top: 30px;
   }
 
@@ -915,14 +920,14 @@
   #subtitle {
     color: #ef513c;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
   .support {
     color: #fff;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
@@ -941,14 +946,14 @@
   #subtitle1 {
     color: #ef513c;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
   .support1 {
     color: #fff;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
@@ -967,14 +972,14 @@
   #subtitle2 {
     color: #ef513c;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
   .support2 {
     color: #fff;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
@@ -993,14 +998,14 @@
   #subtitle3 {
     color: #ef513c;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
   .support3 {
     color: #fff;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
@@ -1019,14 +1024,14 @@
   #subtitle4 {
     color: #ef513c;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
   .support4 {
     color: #fff;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
   }
 
@@ -1035,7 +1040,7 @@
   }
 
   .see-program {
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
     color: #fff;
     margin-top: 90px;
@@ -1048,7 +1053,7 @@
   }
 
   .speak-head {
-    font-family: sans-serif;
+    font-family: 'Lato';
     text-align: center;
     padding-top: 30px;
     font-size: 21px;
@@ -1093,20 +1098,20 @@
     margin-top: -150px;
     margin-left: 180px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info {
     font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     width: 30%;
   }
 
@@ -1121,20 +1126,20 @@
     margin-top: -150px;
     margin-left: 180px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro1 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info1 {
     font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     width: 30%;
   }
 
@@ -1149,20 +1154,20 @@
     margin-top: -150px;
     margin-left: 170px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro2 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info2 {
     font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     width: 30%;
   }
 
@@ -1177,20 +1182,20 @@
     margin-top: -150px;
     margin-left: 170px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro3 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info3 {
     font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     width: 30%;
   }
 
@@ -1205,20 +1210,20 @@
     margin-top: -150px;
     margin-left: 180px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro4 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info4 {
     font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     width: 30%;
   }
 
@@ -1232,20 +1237,20 @@
     margin-top: -150px;
     margin-left: 170px;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   #pro5 {
     font-size: 13px;
     color: #02276d;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lato';
     margin-left: 175px;
   }
 
   #info5 {
     font-size: 12px;
     margin-left: 175px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     width: 30%;
   }
 
@@ -1260,7 +1265,7 @@
   .p-head {
     color: #fff;
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 25px;
     line-height: 4px;
   }
@@ -1305,7 +1310,7 @@
   }
 
   .right {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 13px;
     margin-top: -50px;
     margin-left: 160px;
@@ -1376,7 +1381,7 @@
 
   #about-discription {
     background-color: #fff;
-    font: 1em sans-serif;
+    font-family: 'Lato';
     font-size: 16px;
     border: 1px solid #33323233;
     text-align: center;
@@ -1389,7 +1394,7 @@
 
   #contact {
     color: #4e4e4e;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 15px;
     text-align: center;
     font-weight: bold;
@@ -1398,7 +1403,8 @@
 
   .email {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Lato';
+    font-weight: bold;
   }
 
   #email {
@@ -1415,12 +1421,13 @@
 
   .logo-head {
     margin-top: 70px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 27px;
+    font-weight: bold;
   }
 
   .logo-text {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 15px;
     color: #646464;
     margin: 60px;
@@ -1440,13 +1447,13 @@
 
   .past {
     margin-top: 70px;
-    font-family: sans-serif;
-    font-weight: lighter;
+    font-family: 'Lato';
+    font-weight: bold;
     font-size: 27px;
   }
 
   .past-discrib {
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-size: 15px;
     color: #646464;
     margin: 30px;
@@ -1482,14 +1489,14 @@
 
   .date1 {
     font-size: 35px;
-    font-family: sans-serif;
+    font-family: 'Lato';
     font-weight: bold;
   }
 
   .description {
     font-size: 20px;
     font-weight: bold;
-    font-family: sans-serif;
+    font-family: 'Lato';
   }
 
   .event-row {
