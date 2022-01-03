@@ -79,6 +79,7 @@ Give a ⭐️ if you like this project!
 
 - Thank you Microverse for the opportunity;
 - [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/) that made me copy and change the template.
+- [Cindy Shin](https://www.behance.net/adagio07) the [author of the original design](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 
 ## 📝 License
