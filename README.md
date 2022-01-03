@@ -8,7 +8,7 @@ Microverse Capstone Project - HTML/CSS & JavaScript Conference page
 
 
 ## Video
-
+[Video](https://www.loom.com/share/b29e3fbb7505433cb6f4ed7d0040c2bb?sharedAppSource=personal_library)
 
 ## Live Server
 [Live Demo](https://vty1999.github.io/Conference-page/)
@@ -83,4 +83,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](MIT.md) licensed.
