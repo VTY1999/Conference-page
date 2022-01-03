@@ -274,7 +274,7 @@
     font-size: 20px;
     margin-left: 100px;
     margin-top: -40px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
   .support2 {
@@ -282,7 +282,7 @@
     margin-left: 200px;
     margin-top: -50px;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
   #main-info3 {
@@ -303,7 +303,7 @@
     font-size: 20px;
     margin-left: 80px;
     margin-top: -40px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
   .support3 {
@@ -311,7 +311,7 @@
     margin-left: 220px;
     margin-top: -50px;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
   #main-info4 {
@@ -332,7 +332,7 @@
     font-size: 20px;
     margin-left: 90px;
     margin-top: -40px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
   .support4 {
@@ -340,14 +340,14 @@
     margin-left: 210px;
     margin-top: -60px;
     font-size: 13px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
   }
 
   .button {
     color: #fff;
     background-color: #2d0752;
     margin-top: 50px;
-    font-family: sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 18px;
     border: transparent;
     height: 70px;
@@ -399,6 +399,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name1 {
@@ -425,6 +426,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name2 {
@@ -451,6 +453,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name3 {
@@ -477,6 +480,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name4 {
@@ -539,6 +543,11 @@
     font-family: sans-serif;
     font-size: 25px;
     line-height: 4px;
+  }
+
+  .p {
+    padding: 30px;
+    margin-top: -40px;
   }
 
   .p1 {
@@ -744,6 +753,7 @@
     background-color: #414246;
     margin: -7px;
     color: #fff;
+    height: 50px;
   }
 
   .desktop-menu {
@@ -762,6 +772,8 @@
 
   .gray {
     text-align: right;
+    margin-top: -20px;
+    padding: 30px;
   }
 
   li {
@@ -1102,6 +1114,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name1 {
@@ -1129,6 +1142,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name2 {
@@ -1156,6 +1170,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name3 {
@@ -1183,6 +1198,7 @@
     margin-top: 50px;
     margin-left: 20px;
     height: 150px;
+    width: 128px;
   }
 
   #speaker-name4 {
